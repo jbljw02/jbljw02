@@ -21,4 +21,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbljw02&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbljw02&langs_count=5)]()
