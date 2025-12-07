@@ -12,4 +12,4 @@
 - Real-time Document Collaboration Service
 
 #### [JeayBit](https://www.jeaybit.com/) (2023.08 - 2023.12)
-- Cryptocurrency Virtual Transaction Services
+- Cryptocurrency Virtual Transaction Service
