@@ -1,7 +1,7 @@
 ## Jinu Lee
 
 ### Career
-#### [Sweep](https://www.sweepingoms.com/) (2025.05 - ing)
+#### [Sweep](https://www.sweepingoms.com/) (2025.05 - 2025.12)
 - **Position**: Software Engineer
 - Order management automation service
   
