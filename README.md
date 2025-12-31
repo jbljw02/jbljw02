@@ -2,7 +2,7 @@
 
 ### Career
 #### [Sweep](https://www.sweepingoms.com/) (2025.05 - 2025.12)
-- **Position**: Software Engineer
+- **Position**: Full-Stack Engineer
 - Order management automation service
   
 <hr>
