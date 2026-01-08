@@ -1,7 +1,7 @@
 ## Jinu Lee
 
 ### Career
-#### [Sweep](https://www.sweepingoms.com/) (2025.05 - 2025.12)
+#### [Sweep](https://www.sweepingoms.com/solution) (2025.05 - 2025.12)
 - **Position**: Full-Stack Engineer
 - Order management automation service
   
